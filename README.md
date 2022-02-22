@@ -2,6 +2,8 @@
 
 It's a mobile application to view and edit the next 5 Uk holidays.
 
+| <img src="https://github.com/filippobarcellos/holiday_app/blob/master/images/image1.png" width="300px"> | <img src="https://github.com/filippobarcellos/holiday_app/blob/master/images/image2.png" width="300px"> | <img src="https://github.com/filippobarcellos/holiday_app/blob/master/images/image3.png" width="300px"> |
+
 ## Technologies
 
 - Expo
